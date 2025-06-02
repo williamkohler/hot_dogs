@@ -1,0 +1,3 @@
+[submodule "hot_dogs_rails_api"]
+	path = hot_dogs_rails_api
+	url = /home/bill/Projects/hot_dogs/hot_dogs_rails_api
